@@ -176,12 +176,12 @@ Summary of Celo-based discussions and work:
 * https://github.com/celo-org/celo-blockchain/pull/210
 * https://github.com/celo-org/celo-blockchain/pull/212
 * https://github.com/celo-org/celo-blockchain/pull/398
-* https://github.com/celo-org/celo-blockchain/issues/209
-* https://github.com/celo-org/celo-blockchain/issues/214
-* https://github.com/celo-org/celo-blockchain/issues/216
-* https://github.com/celo-org/celo-blockchain/issues/392
-* https://github.com/celo-org/celo-blockchain/issues/296
-* https://github.com/celo-org/celo-blockchain/issues/359
+* [Full nodes SBAT automatically drop "freeloading" light clients](https://github.com/celo-org/celo-blockchain/issues/209)
+* [Full nodes SBAT enforce gas price minimums](https://github.com/celo-org/celo-blockchain/issues/214)
+* [Developers SBAT query peer etherbases](https://github.com/celo-org/celo-blockchain/issues/216)
+* [Light clients SBAT send transactions to multiple full nodes](https://github.com/celo-org/celo-blockchain/issues/392)
+* [Light clients SBAT send transactions through full nodes that do not specify an etherbase](https://github.com/celo-org/celo-blockchain/issues/296)
+* [Light clients SBAT select peers based on gas price minimum](https://github.com/celo-org/celo-blockchain/issues/359)
 
 Related discussions and work in other blockchain communities:
 
